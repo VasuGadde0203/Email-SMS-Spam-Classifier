@@ -8,6 +8,7 @@ A machine learning project for classifying email or SMS content as "spam" or "no
 - Usage
 - Model Evaluation
 - Contributing
+- License
 
 ## Project Overview
 This spam classifier aims to differentiate between spam and ham (non-spam) messages by training various machine learning models and evaluating their performance. The project explores multiple algorithms, including Naive Bayes, Support Vector Machine, Logistic Regression, Decision Trees, and Ensemble methods. The model selection is based on accuracy and precision scores, with the Multinomial Naive Bayes algorithm achieving high performance and serving as the primary classifier for the Streamlit application.
